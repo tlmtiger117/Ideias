@@ -1,4 +1,5 @@
 18/02/26
+
 Idéaia:Sub_rede  
   como eu estava estudando "qual a função do netmask numa rede",  tive a ideia de criar uma sub_rede no meu LAB de estudos com
   VMs isoladas pra entender esse repasse de dados que o roteador faz,saca?
