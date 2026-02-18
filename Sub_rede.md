@@ -1,5 +1,5 @@
 18/02/26
-|-Idéaia:Sub_rede-------------------------------------------------------------------------------------------------------------|  
+|-Idéaia:Sub_rede-------------------------------------------------------------------------------------------------------------|[[  
   como eu estava estudando "qual a função do netmask numa rede",  tive a ideia de criar uma sub_rede no meu LAB de estudos(rede com VMs isoladas) pra ver como funciona isso.
   
 eu tentaria criar redes diferentes atravez do netmask + prefixo pra enetdner o comportamento do roteador(esse repasse de dados)
