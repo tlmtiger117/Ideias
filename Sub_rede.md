@@ -7,6 +7,6 @@ Idéaia:Sub_rede
 - eu tentaria criar redes diferentes atravez do netmask + prefixo pra enetdner o comportamento do roteador(esse repasse de dados)
 - acho que é uma ideia interesante já dara um projeto de "fazendo uma sub_rede" e ir explicando como fiz. acho ue vai dar certo.
 
-(Atualização)-> já terminei esse projeto, se quiser ver, acesse o link abaixo(meu repositório dos projetos)
+(Atualização)-> já terminei esse projeto. Se quiser ver, acesse o link abaixo(meu repositório dos projetos)
 
 - link: https://github.com/tlmtiger117/projetos/blob/main/Projeto-Sub_Redes.txt
