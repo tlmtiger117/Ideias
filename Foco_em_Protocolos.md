@@ -9,5 +9,6 @@ Fluxo de Aprendizado:
    - 3° TCP: SYN,ACK,RST,FIN,PSH
 
 - Se eu realmente aprender bem isso, já consigo dominar o básico de redes.
-     
+- [relembrar]: "estou aprendendo isso para detectar comportamento suspeito em redes LAN".
+       - Sempre pense em "como atacantes usariam esses mesmos protocolos pra scannear ou atacar algo".
     
