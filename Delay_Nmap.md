@@ -5,3 +5,6 @@
    - --scan-delay: Tem potencial de automação(script que scaneai a cada "x" tempo)
    - --max-parallelism: Limita o npumeros de scans acontecendo ao mesmo tempo.
       - Isso evita aparecer respostas de scans muito coladas uma nas outras no tráfego.
+
+-[ATUALIZAÇÃO]: link para o arquivo explicando o paralelismo:
+   - https://github.com/tlmtiger117/Nmap-Network-Mapper-/edit/main/Nmap_Paralelismo.md
