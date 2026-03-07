@@ -7,6 +7,7 @@ Fluxo de Aprendizado:
    - 1° ARP: request,reply,broadcast e unicast
    - 2° IP: Como ele armazena e envia os dados para camadas superiores
    - 3° TCP: SYN,ACK,RST,FIN,PSH
+   - 4- HTTP: parte de sites. não gosto, mas sei que é essencial(GET,POST,tokens e cookies)
 
 - Se eu realmente aprender bem isso, já consigo dominar o básico de redes.
 - [relembrar]: "estou aprendendo isso para detectar comportamento suspeito em redes LAN".
