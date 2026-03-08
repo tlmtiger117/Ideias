@@ -6,3 +6,7 @@
 
 - O que fazer com isso: Vou tentar pegar os filtros/mentalidades mais importantes para a análise de tráfego
                         (isso já é mais da metade do caminho), o resto é só entendimento de protocolo/Modelo OSI.
+
+
+- [REPOSITÓRIO] -> link para o repositório de Wireshark:
+   - https://github.com/tlmtiger117/Wireshark-Sniffers-de-Rede
