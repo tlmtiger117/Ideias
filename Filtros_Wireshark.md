@@ -7,7 +7,7 @@
 - O que fazer com isso: Vou tentar pegar os filtros/mentalidades mais importantes para a análise de tráfego
                         (isso já é mais da metade do caminho), o resto é só entendimento de protocolo/Modelo OSI.
 
-- Site de estudo de Wireshark: Wireshark Foundation (Sample Captures) – exemplos de protocolos, tráfego normal.
+- Tentar combinar 1° a análise de tráfego com as regras de firewall(primeiro analisa o comportamento depois monta as regras).
 
 
 - [REPOSITÓRIO] -> link para o repositório de Wireshark:
