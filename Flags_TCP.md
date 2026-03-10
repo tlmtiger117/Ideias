@@ -7,3 +7,4 @@
 - Flags para ver:
    - SYN
    - ACK
+   - RST
