@@ -1,5 +1,5 @@
 # 03/02/26
-# Delay nmap:
+# Flags Nmap:
 
 - Entender ou olhar um pouco sobre essas opções(flags)
    - --scan-delay: Tem potencial de automação(script que scaneai a cada "x" tempo)
