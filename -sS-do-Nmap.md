@@ -1,5 +1,5 @@
 # 18/03/26
-# half-open(-sS/conexão entre-abretar).
+# half-open(-sS/conexão entre-aberta).
 
 - Não é de hoje que eu percebi que o Nmap cria pacotes com o mesmo tamanho qaundo é tramportado via protocolo IP(camada 3).
    - Uma ideia que tive é tentar criar alguma regra de firewall que bloqueasse pacotes com esse tamanho expecífico quando
