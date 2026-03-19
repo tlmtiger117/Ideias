@@ -8,5 +8,7 @@
   - Ele pega o tráfego capturado e transforma e relatório(quem envio,quem recebeu,serviço...).
   - Ele tem várias extenções de arquivos, podendo capturar tudo ou só de algo expecífico(com base na extenção do arquivo)
   - Esse relatório é em forma de Logs, mas no caso dele, é de forma organizada(extenção = conteúdo específico)
+  - 
+- Outra alternativa: Pesquisando um pouco, vi essa tool "Wazuh" e parece ser no mesmo estilo que o zeek
 
 - Talvez seja uma boa ideia dar uma chace a ele pra evr no que acontece...
